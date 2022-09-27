@@ -1,0 +1,2 @@
+# -Aplicativo-para-agendamento-dos-servi-os-de-barbearia-
+É Um aplicativo de agendamento, onde o cliente poderá agendar serviços e realizar compras na loja do aplicativo, cujo o vendedor irá disponibilizar alguns produtos.  Precisa ter a tela do ADMIN e do cliente.  Algumas informações que é preciso ter: Preço , serviço, horários livres , profissional que vai atender e etc...  Para mais informações, apenas ao fechar contrato. (Peço que venha apenas com um orçamento já estipulado para esse projeto).
